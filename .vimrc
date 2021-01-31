@@ -23,3 +23,5 @@ set signcolumn=yes
 set noshowmode
 set completeopt=menuone,noinsert,noselect
 set background=dark
+set rtp+=/usr/local/opt/fzf
+set backspace=indent,eol,start
