@@ -18,8 +18,6 @@ set undodir=~/.vim/undodir
 set undofile
 set incsearch
 set scrolloff=8
-set colorcolumn=100
-set signcolumn=yes
 set noshowmode
 set completeopt=menuone,noinsert,noselect
 set background=dark
