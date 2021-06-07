@@ -1,9 +1,10 @@
 {
-	"color_scheme": "Packages/10% Too Dull for My Tastes Color Scheme/scotchy.tmTheme",
+	"color_scheme": "Packages/Theme - Aristocat/aristocat.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
+		"_build",
 		".hg",
 		".mix",
 		"deps",
@@ -11,15 +12,22 @@
 		".elixir_ls",
 		"node_modules"
 	],
-	"font_size": 11,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace"
+	],
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage",
 	],
-	"hot_exit": false, 
+	"hot_exit": "disabled", 
 	"remember_open_files": false,
 	"close_windows_when_empty": true,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"font_face":"Ubuntu Mono Bold",
-	"font_size": 12,
+	"ui_scale": 1.25,
+	"file_tab_style":"square",
+	"match_brackets_angle": true,
 }
