@@ -3,6 +3,8 @@ filetype off                  " required
 
 syntax on
 
+
+# https://github.com/ctrlpvim/ctrlp.vim
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 set tabstop=4 softtabstop=4
 set shiftwidth=4
